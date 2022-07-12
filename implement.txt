@@ -6,4 +6,4 @@
 -Page Setup
 -Print
 -Exit
-.
+.as
