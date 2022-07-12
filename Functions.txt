@@ -7,4 +7,4 @@
 -Find Next
 -Replace
 -Go To
--Select All,,
+-Select All,,.
