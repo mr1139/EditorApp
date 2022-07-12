@@ -1,0 +1,10 @@
+
+#functions-2
+-Delete
+-Cut
+-Copy
+-Paste
+-Find Next
+-Replace
+-Go To
+-Select All,,

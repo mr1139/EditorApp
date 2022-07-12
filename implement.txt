@@ -1,0 +1,9 @@
+#functions-1
+-New
+-Open
+-Save
+-Save As
+-Page Setup
+-Print
+-Exit
+.
